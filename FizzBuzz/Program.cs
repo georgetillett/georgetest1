@@ -27,7 +27,7 @@ namespace FizzBuzz
                 Console.WriteLine(text);
             }
 
-            // Stop the command window from closing
+            // Stop the command window from closing and notifiy the user
             Console.WriteLine();
             Console.WriteLine("Press the ANY key to continue.");
             Console.ReadLine();
